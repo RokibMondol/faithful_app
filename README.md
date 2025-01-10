@@ -1,6 +1,7 @@
 # Serverless Shiny App: Faithful Geyser Data Visualization  
 
-This project demonstrates a serverless Shiny application built using R and hosted on GitHub Pages. The app enables users to interactively tweak **ggplot2** options and visualize the impact in real-time.  
+This project demonstrates a serverless Shiny application built using R and hosted on GitHub Pages. The app enables users to interactively tweak **ggplot2** options and visualize the impact in real-time. 
+<br>
 ![Image](Screenshot_20250110_203952.png)
 
 ## Features  
