@@ -8,7 +8,7 @@ This project demonstrates a serverless Shiny application built using R and hoste
 - **Real-Time Updates**: Changes to plot settings are reflected instantly.  
 
 ## Limitations  
-**Load Time**: Since this is a test application, it is not fully optimized. Additionally, all necessary R libraries are downloaded to the browser at runtime to support the app's serverless operation, which can lead to slower initial load times.   
+Since this is a test application, it is not fully optimized. Additionally, all necessary R libraries are downloaded to the browser at runtime to support the app's serverless operation, which can lead to slower initial load times.   
 
 ## Access the App  
 [Faithful Geyser Shiny App](https://rokibmondol.github.io/faithful_app/)  
